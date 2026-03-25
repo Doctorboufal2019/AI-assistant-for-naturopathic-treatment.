@@ -1,4 +1,5 @@
 # AI Assistant for Naturopathic Treatment
+https://t.me/HeelixAI_Bot
 
 > 🌿 Intelligent conversational assistant for personalized naturopathic care guidance
 
